@@ -4,3 +4,9 @@ Release/
 *.launch
 desktop.ini
 Thumbs.db
+Smart_Climate_App/.gradle/
+Smart_Climate_App/.idea/
+Smart_Climate_App/.kotlin/
+Smart_Climate_App/build/
+Smart_Climate_App/app/build/
+local.properties
