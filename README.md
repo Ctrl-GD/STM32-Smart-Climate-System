@@ -20,4 +20,8 @@ An embedded climate monitoring and threshold control system built on an **STM32 
 - `Middlewares/` & `USB_DEVICE/` — Middleware and USB device stack files
 - `Smart_Climate_App/` — Kotlin Android application (`Smart Climate`) for Bluetooth monitoring and charts
 - `Sıcaklık ve Nem Full Proje.ioc` — STM32CubeMX hardware configuration
+## Screenshots
+![STM32 Smart Climate Hardware Setup](Assets/hardware.jpeg)
+![Smart Climate Kotlin App Screen 1](Assets/app_photo1.png)
+![Smart Climate Kotlin App Screen 2](Assets/app_photo2.png)
 
